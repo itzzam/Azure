@@ -25,7 +25,7 @@ terraform {
 
       source = "hashicorp/azurerm"
 
-      version = "*"
+      version = "3.8.0"
 
     }
 
